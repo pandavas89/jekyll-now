@@ -1,7 +1,9 @@
 ---
 layout: post
-title: 20180130_My first post
+title: my first post!
 ---
+
+**20180130**
 
 I'm not sure how this is going on by far, but pretty sure this will work.
 
