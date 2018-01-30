@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my first post!
+title: My first post!
 ---
 
 **20180130**
