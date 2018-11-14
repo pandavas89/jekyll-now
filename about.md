@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Interested in Python and all the othe languages...
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+이런건 처음이라 Jekyll과 github Pages를 익히고 있습니다.
 
 ### Contact me
 
