@@ -13,7 +13,9 @@ github pages는 github에서 제공하는 서비스인 만큼, 계정이 필요�
 
 
 ## 2. Jekyll 그런건 난 모르겠고, 일단 fork!
-Ruby 환경에서 Jekyll을 구동하는 걸 어려워하는 사람이 당연히 한둘이 아닙니다. 그래서 바로 이 프로젝트가 있습니다. barry clark씨에 의해 만들어진 [jekyll-now](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)입니다. 당장 작동하는 github pages를 fork해서 블로그 제목이나 설명, 링크 등을 모조리 갈아치우고 내 것인 척 합시다. fork란, 다른 이의 repository를 가져와서 원 repository에 영향을 주지 않고 독자적인 master branch를 만들어 나가겠다는 의미입니다. 달리 얘기하면, '오케이, 거기까지. 이제부턴 갈라서자'는 얘긴데, 사실 우리는 jekyll-now에 기여한 바가 없기 때문에 '오케이, 거기까지. 이제부턴 내가 할게'에 더 가깝겠습니다.
+Jekyll은 Ruby 기반의 정적 사이트 생성기입니다. 따라서, Jekyll을 구동하기 위해선 Ruby 개발환경을 먼저 갖춰줘야 합니다. 하지만 이 글은 말 그대로, 배경지식 없이 github pages 만들기입니다. 그러니 더 쉬운 방법을 찾아봅시다. [jekyll-now](https://github.com/barryclark/jekyll-now)입니다. github은 버전 관리 프로그램의 특성을 살려서 이미 작동하는 github pages를 포크하여 자신만의 블로그를 새롭게 시작할 수 있습니다.
+[How to fork](/assets/image/fork.jpg)
+
 
 ##3. 포스트 만드는 방법
 github에서 제공하는 툴이기 때문에 포스팅도 commit과 push를 통해 이뤄집니다. ```/_posts/``` 폴더 내에 존재하고, 지정된 양식을 따르는 마크업 파일은 모두 포스트로 인식됩니다. YYYY-MM-DD-[제목].md의 형태입니다. 다만, 제목의 경우 스페이스 대신 하이픈으로 연결해줘야 합니다. 또한, 한글로 된 파일 제목은 권장되지 않습니다. 예를 들어, 여러분이 보고 계신 이 포스트는 repository에서 확인할 수 있듯이 ```2018-11-15-fast-start-without-basic.md``` 라는 이름으로 ```_posts``` 폴더 내에 존재합니다.
