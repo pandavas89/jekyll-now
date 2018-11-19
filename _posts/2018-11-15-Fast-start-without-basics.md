@@ -14,7 +14,7 @@ github pages는 github에서 제공하는 서비스인 만큼, 계정이 필요�
 
 ## 2. Jekyll 그런건 난 모르겠고, 일단 fork!
 Jekyll은 Ruby 기반의 정적 사이트 생성기입니다. 따라서, Jekyll을 구동하기 위해선 Ruby 개발환경을 먼저 갖춰줘야 합니다. 하지만 이 글은 말 그대로, 배경지식 없이 github pages 만들기입니다. 그러니 더 쉬운 방법을 찾아봅시다. [jekyll-now](https://github.com/barryclark/jekyll-now)입니다. github은 버전 관리 프로그램의 특성을 살려서 이미 작동하는 github pages를 포크하여 자신만의 블로그를 새롭게 시작할 수 있습니다.
-![How to fork]({{ "/assets/image/fork.jpg"|}})
+![How to fork]({{ "/assets/image/fork.jpg"|}})!
 
 
 ##3. 포스트 만드는 방법
