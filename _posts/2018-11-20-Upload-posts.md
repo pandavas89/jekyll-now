@@ -8,6 +8,8 @@ published: false
 ## 1. 포스트의 규칙
 일단은, 지난 포스트에서 생성된 첫 포스트를 열어봅시다. github pages의 모든 포스트는 ```_posts```폴더 내에 존재합니다. 브라우저에서 해당 포스트에 접근해 봅시다.
 
+![Find _posts folder]({{ "/assets/image/open_posts.jpg"|absolute_url}})
+![Get to _posts folder]({{ "/assets/image/post_folder.jpg"|absolute_url}})
     ---
     layout: post
     title: You're up and running!
