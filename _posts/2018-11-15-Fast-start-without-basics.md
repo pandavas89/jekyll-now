@@ -19,6 +19,8 @@ username을 만들 때 한 가지 유의해야 할 것은, 별도의 도메인�
 ## 2. Jekyll 그런건 난 모르겠고, 일단 fork!
 Jekyll은 Ruby 기반의 정적 사이트 생성기입니다. 따라서, Jekyll을 구동하기 위해선 Ruby 개발환경을 먼저 갖춰줘야 합니다. 하지만 이 글은 말 그대로, 배경지식 없이 github pages 만들기입니다. 그러니 더 쉬운 방법을 찾아봅시다. [jekyll-now](https://github.com/barryclark/jekyll-now)입니다. github은 버전 관리 프로그램의 특성을 살려서 이미 작동하는 github pages를 포크하여 자신만의 블로그를 새롭게 시작할 수 있습니다.
 ![How to fork]({{ "/assets/image/fork.jpg"|absolute_url}})
+
+
 fork 버튼을 누르면, 자신의 저장소로 현재 저장소가 통째로 복사됩니다. 저장소의 이름을 ```[github ID].github.io```로 바꿔줍니다.
 
 
@@ -27,7 +29,6 @@ fork 버튼을 누르면, 자신의 저장소로 현재 저장소가 통째로 �
 
 
 ![Access to the github pages]({{ "/assets/image/access.jpg"|absolute_url}})
-
 Jekyll-now의 기본 테마가 여러분을 환영해줍니다!
 
 다음 포스트에서는 포스트를 만드는 방법, 그리고 조금 더 간편한 편집/업로드를 위해 Atom IDE를 설치해 보겠습니다.
