@@ -10,7 +10,7 @@ github pages는 github에서 제공하는 블로그입니다. 이 포스팅은 �
 ## 1. github ID 만들기
 
 github pages는 github에서 제공하는 서비스인 만큼, 계정이 필요합니다. 구글이나 페이스북 등의 기존 계정을 통해 만들수도 있고, 이메일 주소를 이용해 새롭게 만들어도 좋습니다.
-[Let's sign up]({{ "/assets/image/sign_up.jpg"|absolute_url}})
+![Let's sign up]({{ "/assets/image/sign_up.jpg"|absolute_url}})
 
 
 username을 만들 때 한 가지 유의해야 할 것은, 별도의 도메인을 사용하지 않는 한 github pages를 이용해 만들어지는 블로그의 주소가 ```[github username].github.io```로 고정된다는 점입니다. repository를 수정한다고 해서 주소를 바꿀 수는 없으며, 단지 repository와 github pages의 연결이 끊어질 뿐입니다. 마음에 드는 아이디가 모두 사용중이라고 해서 남 보여주기 창피한 아이디를 만들면 외부 도메인을 사야 하는 사태가 벌어집니다. 주의합시다.
