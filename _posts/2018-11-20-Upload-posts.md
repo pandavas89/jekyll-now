@@ -5,8 +5,30 @@ category: github pages
 published: false
 ---
 
-## 1. 포스트 작성하는 방법
+## 1. 포스트의 규칙
+일단은, 지난 포스트에서 생성된 첫 포스트를 열어봅시다. github pages의 모든 포스트는 ```_posts```폴더 내에 존재합니다. 브라우저에서 해당 포스트에 접근해 봅시다.
+
+    ---
+    layout: post
+    title: You're up and running!
+    ---
+    Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+    ![_config.yml]({{ site.baseurl }}/images/config.png)
+
+    The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+다음과 같은 내용이 출력됩니다. 이것이 방금 본 포스트의 마크다운 문서입니다.
+
+    ---
+    layout: post
+    title: You're up and running!
+    ---
+이 부분이 포스트의 헤더입니다. 여기에는 포스트 본문에 출력되지 않는 다양한 정보가 담깁니다. 현재로서는 포스트의 제목과 레이아웃이 포함되어 있습니다.
+
 github에서 제공하는 툴이기 때문에 포스팅도 commit과 push를 통해 이뤄집니다. ```/_posts/``` 폴더 내에 존재하고, 지정된 양식을 따르는 마크업 파일은 모두 포스트로 인식됩니다. YYYY-MM-DD-[제목].md의 형태입니다. 다만, 제목의 경우 스페이스 대신 하이픈으로 연결해줘야 합니다. 또한, 한글로 된 파일 제목은 권장되지 않습니다. 예를 들어, 여러분이 보고 계신 이 포스트는 repository에서 확인할 수 있듯이 ```2018-11-15-fast-start-without-basic.md``` 라는 이름으로 ```_posts``` 폴더 내에 존재합니다.
+
+
+![Let's create post]({{ "/assets/image/new_post_online.jpg"|absolute_url}})
 
 ### 1.1. 온라인에서 포스트 작성/수정하기
 가장 먼저 온라인에서 포스트를 작성/수정해보겠습니다.

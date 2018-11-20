@@ -21,14 +21,17 @@ Jekyll은 Ruby 기반의 정적 사이트 생성기입니다. 따라서, Jekyll�
 
 
 ![How to fork]({{ "/assets/image/fork.jpg"|absolute_url}})
+
 fork 버튼을 누르면, 자신의 저장소로 현재 저장소가 통째로 복사됩니다. 저장소의 이름을 ```[github ID].github.io```로 바꿔줍니다.
 
 
 ![Let's change repo name]({{ "/assets/image/rename.jpg"|absolute_url}})
+
 이제 자신의 github pages에 접속해 봅시다. ```[github ID].github.io```를 입력합니다.
 
 
 ![Access to the github pages]({{ "/assets/image/access.jpg"|absolute_url}})
+
 Jekyll-now의 기본 테마가 여러분을 환영해줍니다!
 
 다음 포스트에서는 포스트를 만드는 방법, 그리고 조금 더 간편한 편집/업로드를 위해 Atom IDE를 설치해 보겠습니다.
