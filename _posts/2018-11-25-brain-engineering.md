@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 뇌를 바꾼 공학 공학을 바꾼 뇌
 date: 18-11-25 00:45:00
 categories: book
