@@ -2,6 +2,7 @@
 title: 뇌를 바꾼 공학 공학을 바꾼 뇌
 date: 18-11-26 00:45:00
 categories: book_review
+published: true
 ---
 ![Book image](https://misc.ridibooks.com/cover/2234002254/xlarge)
 
