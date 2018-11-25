@@ -4,7 +4,7 @@ date: 18-11-25 00:30:00
 categories: book review
 published: True
 ---
-독서 리뷰  
+  
 ![book cover](https://misc.ridibooks.com/cover/2234002254/xlarge)  
 [뇌를 바꾼 공학 공학을 바꾼 뇌](https://ridibooks.com/v2/Detail?id=2234002254)  
 임창환 저, MID, 2015
