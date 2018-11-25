@@ -3,6 +3,7 @@ title: 시간관리, Toggl이 좋은 이유
 date: 2018-11-23 00:30:00
 categories: productivity
 published: True
+comments: True
 ---
 
 개인 사용자로서 저는 시간 추적 어플리케이션으로 Toggl을 사용하고 있습니다. 그 이유에 대해서, 간단하게나마 이야기해보려고 합니다.
