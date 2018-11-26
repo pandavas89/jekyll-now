@@ -1,6 +1,6 @@
 ---
 title: 빠른 식단일기 베타버전
-date: 18-11-26
+date: 18-11-26 18:00:00
 categories: productivity
 ---
 
