@@ -9,7 +9,7 @@ categories: productivity
 어플리케이션이 저장하는 내용은 시작한 날짜, 목표, 활동 각 내역과 기존 수행횟수, 잘한 일의 누적 수행 횟수 뿐이고, 로컬 영역에서만 작동합니다.
 
 
-</center>![diet_logger](/assets/image/diet_logger_v_0.2-beta.jpg)  
+</center>![diet_logger]({{ "/assets/image/diet_logger_v_0.2-beta.jpg|absolute_url" }})
 식단일기 for Windows 64bit [다운로드](https://github.com/pandavas89/diet_logger/releases/download/v0.1-alpha/rapid_logger.exe)</center>
 
 최초 가동시 시작일자와 목표 등을 수정해서 저장해 주시고, 활동은 우측의 추가 버튼으로 추가 작성 가능합니다.
