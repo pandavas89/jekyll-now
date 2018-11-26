@@ -13,5 +13,5 @@ categories: productivity
 식단일기 for Windows 64bit [다운로드](https://github.com/pandavas89/diet_logger/releases/download/v0.1-alpha/rapid_logger.exe)
 
 
-최초 가동시 시작일자와 목표 등을 수정해서 저장해 주시고, 활동은 우측의 추가 버튼으로 추가 작성 가능합니다.  
+최초 어플리케이션을 작동시 시작일자와 목표 등을 수정해서 저장해 주시고, 활동은 우측의 추가 버튼으로 추가 작성 가능합니다.  
 내용을 모두 작성한 후에 출력 버튼을 누르시면 새 창에서 식단일기 템플릿이 출력됩니다. 동시에 클립보드에 같은 내용이 복사되어, 바로 카카오톡에 붙여넣을 수 있습니다.
