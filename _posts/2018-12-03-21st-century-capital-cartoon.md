@@ -1,7 +1,7 @@
 ---
 layout: review
 title: 만화로 읽는 피케티의 21세기 자본
-date: 18-12-03 00:30:00
+date: 18-12-02 23:30:00
 categories: book
 published: True
 image: https://misc.ridibooks.com/cover/209000112/large
