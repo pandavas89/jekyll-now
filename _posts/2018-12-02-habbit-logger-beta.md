@@ -2,6 +2,7 @@
 title: 빠른 개선일지 베타버전
 date: 18-12-2 23:00:00
 categories: productivity
+published: False
 ---
 
 간단하게 짜 본 개선일지 출력 앱입니다. 거의 대부분 식단일기 앱에 쓰인 코드의 재탕이라 빠르게 완성할 수 있었습니다.  
