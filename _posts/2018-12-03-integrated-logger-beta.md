@@ -15,6 +15,8 @@ published: True
 ![Integral Note 화면]({{ "/assets/image/inotev02.jpg" }})
 {: refdef}
 
+
+
 ## [내꺼하나+개선일지] 사용법
 {: refdef: style="text-align: center;"}
 ![내꺼하나 최초 화면]({{ "/assets/image/hnotev02.jpg" }})
