@@ -11,6 +11,7 @@ published: True
 습관 리포트 작성을 빠르고 간편하게 만들어줍니다.
 
 추가적으로 간단한 템플릿 편집이 가능해졌습니다. 설정 버튼을 이용해 리포트가 출력되는 형태를 간단하게나마 바꿀 수 있습니다.
+
 {: refdef: style="text-align: center;"}
 ![Integral Note 화면]({{ "/assets/image/inotev02.jpg" }})
 {: refdef}
@@ -18,6 +19,7 @@ published: True
 
 
 ## [내꺼하나+개선일지] 사용법
+
 {: refdef: style="text-align: center;"}
 ![내꺼하나 최초 화면]({{ "/assets/image/hnotev02.jpg" }})
 {: refdef}
