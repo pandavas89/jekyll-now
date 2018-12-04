@@ -1,6 +1,6 @@
 ---
 title: 통합 습관 트래커 v_0.2 beta
-date: 18-12-23 18:00:00
+date: 18-12-03 18:00:00
 categories: productivity
 published: True
 ---
