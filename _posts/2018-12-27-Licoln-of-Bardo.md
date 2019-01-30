@@ -1,7 +1,7 @@
 ---
 layout: review
 title: 바르도의 링컨
-date: 18-12-23 13:30:00
+date: 19-01-28 13:30:00
 categories: book
 published: True
 image: https://image.aladin.co.kr/product/17159/79/letslook/8954653421_f.jpg
