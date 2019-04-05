@@ -5,7 +5,7 @@ categories: Spanish
 published: True
 ---
 
-[## Viernes negro por los incendios forestales en varios puntos del país](http://world.kbs.co.kr/service/news_view.htm?lang=s&Seq_Code=65756)
+[Viernes negro por los incendios forestales en varios puntos del país](http://world.kbs.co.kr/service/news_view.htm?lang=s&Seq_Code=65756)
 
 ## 국내 여러 곳의 산불로 검게 물든 금요일  
 
