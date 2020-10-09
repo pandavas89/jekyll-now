@@ -1,7 +1,7 @@
 ---
 title: 파이썬 기초 강습 1 - Atom IDE 설치
 date: 20-10-09 23:00:00
-categories: productivity
+categories: python
 published: False
 ---
 ## IDE?

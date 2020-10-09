@@ -1,7 +1,7 @@
 ---
 title: 파이썬 기초 강습 0 - 파이썬 설치
 date: 20-10-09 23:00:00
-categories: productivity
+categories: python
 published: True
 ---
 컴퓨터와 관련된 일을 해 본 경험이 없는 분들을 대상으로 한 기초적인 파이썬 입문 가이드입니다.
