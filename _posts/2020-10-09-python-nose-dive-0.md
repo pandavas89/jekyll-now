@@ -56,6 +56,6 @@ Desktop 폴더가 있는 것을 확인할 수 있습니다. 디렉토리를 바�
 
 파이썬에서 코드를 실행하기 위해서는 'python으로 해당 파일을 열어라'는 명령을 컴퓨터에 전달해야 합니다. 그를 위해서는 python을 앞에 붙여주면 됩니다. python hello_world.py를 입력해주면, 작성한 코드 그대로 Hello, world!를 프롬프트창에 출력한 것을 확인해 볼 수 있습니다.
 
-![Hello, world! 실행]({{ "/assets/image/python_0/prompt_hello_world.png"}})
+![Hello, world! 실행]({{ "/assets/image/python_0/prompt_hello_world_run.png"}})
 
 이제 파이썬 코드를 작성할 수 있게 되었지만, 알아야 할 것도 많고 무엇보다 불편합니다. 메모장으로 프로그램을 작성하는 건 보통 생각하는 프로그래밍과도 많이 다른 것 같구요. 바로 그래서 IDE를 사용하게 됩니다. 다음 편에서 Atom IDE 설치를 진행해 보겠습니다.
