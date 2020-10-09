@@ -2,7 +2,7 @@
 title: 오늘의 스페인어
 date: 19-04-06 08:30:00
 categories: Spanish
-published: True
+published: False
 ---
 
 [Viernes negro por los incendios forestales en varios puntos del país](http://world.kbs.co.kr/service/news_view.htm?lang=s&Seq_Code=65756)

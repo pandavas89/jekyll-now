@@ -2,7 +2,7 @@
 title: 배경지식 없이 github pages 만들기
 date: 18-11-20 20:30:00
 category: github pages
-published: True
+published: False
 ---
 
 github pages는 github에서 제공하는 블로그입니다. 이 포스팅은 프로그래밍 관련 지식이 전무한 초보자를 대상으로 전제합니다.

@@ -2,7 +2,7 @@
 title: 통합 습관 트래커 v_0.2 beta
 date: 18-12-03 18:00:00
 categories: productivity
-published: True
+published: False
 ---
 
 [Integrated Habbit Tracker for 64bit Windows](https://github.com/pandavas89/habbit_logger/releases/download/v0.2-beta/integral_note.exe)

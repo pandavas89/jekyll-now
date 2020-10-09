@@ -3,7 +3,7 @@ layout: review
 title: 이준구 교수의 인간의 경제학
 date: 18-12-23 13:30:00
 categories: book
-published: True
+published: False
 image: https://misc.ridibooks.com/cover/510000647/large
 name: 이준구 교수의 인간의 경제학
 link: https://ridibooks.com/v2/Detail?id=510000647

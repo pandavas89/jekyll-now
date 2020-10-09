@@ -3,6 +3,7 @@ layout: post
 title: 재부팅중...
 date: 2018-11-15 02:00:00
 categories: github Pages
+published: False
 ---
 
 업데이트 하는 방법을 제대로 이해하지 못해서 버려둔 github Pages를 다시 시작합니다. 아마도 Jekyll이 한 단어로만 이뤄진 포스트를 제대로 이해하지 못하는 모양입니다. 확실친 않지만, 어쨌든 해결이 됐으니...

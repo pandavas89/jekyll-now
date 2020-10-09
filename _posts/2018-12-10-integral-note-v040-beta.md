@@ -2,7 +2,7 @@
 title: 통합 습관 트래커 v_0.4.0 beta
 date: 18-12-08 18:00:00
 categories: productivity
-published: True
+published: False
 ---
 
 [통합 습관 트래커 v_0.4.0 beta for 64bit Windows](https://github.com/pandavas89/habbit_logger/releases/download/v0.4.0-beta/integral_note.exe)

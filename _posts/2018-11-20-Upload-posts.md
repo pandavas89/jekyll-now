@@ -2,7 +2,7 @@
 title: 배경지식 없이 github pages 포스트 올리기
 date: 18-11-20 01:00:00
 category: github pages
-published: false
+published: False
 ---
 
 ## 1. 포스트의 규칙
