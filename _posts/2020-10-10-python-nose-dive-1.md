@@ -51,4 +51,21 @@ Atom IDE 홈페이지에서 프로그램을 다운로드 할 수 있습니다.  
 ![Atom URI handler]({{ "/assets/image/python_1/atom_handler.png"}})
 
 ## Atom Packages
-앞서 이야기한 것과 같이, Atom은 다양한 부가기능을 사용할 수 있습니다. 이번에는 프로그램의 즉시 실행을 가능하게 해 주는 script와 코드의 가독성을 높여주는 Seti UI를 설치할 것입니다.
+앞서 이야기한 것과 같이, Atom은 다양한 부가기능을 사용할 수 있습니다. 이번에는 프로그램의 즉시 실행을 가능하게 해 주는 script와 파일 확장자별로 다양한 아이콘을 제공해 주는 Seti UI를 설치할 것입니다.
+
+![Atom Settings]({{ "/assets/image/python_1/atom_package_install.png"}})
+
+설치 과정은 무척 간단합니다. Atom에서 File-Settings 메뉴를 이용하거나, Ctrl+,를 입력해 설정 화면을 열어줍니다. 여기에서 Install 항목을 선택해 줍니다. 검색창에 script를 입력하고 검색하면 script 패키지가 나타납니다. Install 버튼을 눌러 설치해 줍니다. Script 패키지의 실행 단축키는 Ctrl+Shift+B입니다. 이것은 패키지 설정에서 바꿀 수 있습니다. 먼저 제대로 작동하는지 확인해 보겠습니다. 설치된 내용이 적용되어야 하므로, Atom을 종료하고 다시 시작해줍니다.
+
+![Atom Script Run]({{ "/assets/image/python_1/atom_script.png"}})
+
+이제 hello_world.py를 열고 단축키를 입력해주면 하단에 프로그램 실행 결과가 앞선 프롬프트와 IDLE와 마찬가지로 출력되는 것을 확인해 볼 수 있습니다.
+
+![Atom Seti-UI]({{ "/assets/image/python_1/atom_seti_ui.png"}})
+
+이번에는 Seti-UI를 설치해 보겠습니다. 앞서 사용했던 Install 항목으로 돌아가서 seti-UI를 검색하고 오른쪽의 theme 버튼을 클릭해 줍니다. Install 버튼을 클릭해 설치합니다. 설치가 완료되면 Settings의 Theme 메뉴에서 UI Theme를 Seti로 바꿔줍니다. seti-UI 테마도 적용이 완료됩니다.
+
+![Atome Theme]({{ "/assets/image/python_1/atom_theme.png"}})
+Settings 화면에서 Theme를 선택합니다. UI Theme를 Seti로 바꿔줍니다.
+
+![Atom Seti Theme]({{ "/assets/image/python_1/atom_seti_applied.png"}})
