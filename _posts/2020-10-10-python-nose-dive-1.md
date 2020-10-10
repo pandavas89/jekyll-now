@@ -69,3 +69,5 @@ Atom IDE 홈페이지에서 프로그램을 다운로드 할 수 있습니다.  
 Settings 화면에서 Theme를 선택합니다. UI Theme를 Seti로 바꿔줍니다.
 
 ![Atom Seti Theme]({{ "/assets/image/python_1/atom_seti_applied.png"}})
+
+새로운 테마가 잘 적용된 것을 확인할 수 있습니다.
