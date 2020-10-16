@@ -7,9 +7,9 @@ published: True
 
 python으로 기초 중의 기초인 Hello, world!를 구현해 보았습니다. 이번에는 여기에서 한 걸음 더 나아가 보겠습니다. 먼저 Hello, world!에 사용된 자료형과 함수를 알아보겠습니다.
 
-```
+{% highlight python %}
 print("Hello, world!")
-```
+{% endhiglight %}
 
 `"Hello, world!"` 라는 문자열 리터럴이 사용되었고, `print` 함수가 사용되었습니다. 먼저 문자열부터 살펴보겠습니다.
 
