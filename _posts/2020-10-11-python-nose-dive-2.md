@@ -1,5 +1,5 @@
 ---
-title: 파이썬 기초 강습 2 - 문자열 자료형과 함수
+title: 파이썬 기초 강습 1 - 자료형과 함수
 date: 20-10-11 00:00:00
 categories: python
 published: False
