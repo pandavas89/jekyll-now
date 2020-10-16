@@ -7,9 +7,9 @@ published: True
 
 python으로 기초 중의 기초인 Hello, world!를 구현해 보았습니다. 이번에는 여기에서 한 걸음 더 나아가 보겠습니다. 먼저 Hello, world!에 사용된 자료형과 함수를 알아보겠습니다.
 
-{% highlight python %}
+```python
 print("Hello, world!")
-{% endhiglight %}
+```
 
 `"Hello, world!"` 라는 문자열 리터럴이 사용되었고, `print` 함수가 사용되었습니다. 먼저 문자열부터 살펴보겠습니다.
 
@@ -47,7 +47,7 @@ print("Hello, world!")
 조금 더 강의가 진행되어서 GUI를 활용하게 되기 전까지는 `print` 함수가 우리의 프로그램 UI 구현에 있어서 주요한 역할을 할 것입니다. `print`에 대한 더 자세한 설명은 [링크]("https://docs.python.org/3/library/functions.html#print")를 참조하세요.
 파이썬에서 기본적으로 제공하는 함수들이나 다른 사람이 만들어 둔 함수를 사용할 수도 있고, 우리가 직접 정의한 함수를 사용할 수도 있습니다. 그러면 함수를 정의해 보겠습니다. 기존의 `hello_world.py`코드를 조금 바꿔볼까요.
 
-```
+```python
 def hello_world():
     print("Hello, world!")
 
@@ -71,7 +71,7 @@ Hello, world!
 `hello_world()`
 새롭게 정의해 준 `hello_world`를 호출해 주었습니다. 파이썬에서 함수를 호출할 때에는 인자값을 주지 않더라도 반드시 뒤에 소괄호를 붙여줍니다. 이 부분을 생략하게 되면, `hello_world`함수를 정의하는 부분만 존재하게 되기 때문에 코드를 실행해도 어떤 결과도 나타나지 않습니다. 반대로 코드를 다음과 같이 바꾼다면, Hello, world!가 두 번 인쇄됩니다.
 
-```
+```python
 def hello_world():
     print("Hello, world!")
 
@@ -86,7 +86,7 @@ Hello, world!
 
 #echo 함수 만들어보기
 함수와 문자열에 대해 이해했으니, 입력받은 값을 그대로 출력하는 echo 함수를 만들어보겠습니다.
-```
+```python
 def echo(in_string):
     print(in_string)
 
@@ -103,7 +103,7 @@ This is python echo function test.
 
 하지만 미리 입력된 문구만 입력하면 메아리라는 느낌이 잘 들지 않는 만큼, 사용자의 입력값을 직접 받아서 되풀이하도록 조금 더 수정해 보겠습니다.
 
-```
+```python
 def echo():
     in_string = input("메아리 칠 문장을 입력해 주세요 : ")
     print(in_string)
