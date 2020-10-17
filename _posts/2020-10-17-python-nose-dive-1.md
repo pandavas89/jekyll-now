@@ -84,7 +84,7 @@ Hello, world!
 >>>
 ```
 
-#echo 함수 만들어보기
+## echo 함수 만들어보기
 함수와 문자열에 대해 이해했으니, 입력받은 값을 그대로 출력하는 echo 함수를 만들어보겠습니다.
 ```python
 def echo(in_string):
