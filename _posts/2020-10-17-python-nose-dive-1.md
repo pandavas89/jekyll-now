@@ -71,7 +71,7 @@ Hello, world!
 `hello_world()`
 새롭게 정의해 준 `hello_world`를 호출해 주었습니다. 파이썬에서 함수를 호출할 때에는 인자값을 주지 않더라도 반드시 뒤에 소괄호를 붙여줍니다. 이 부분을 생략하게 되면, `hello_world`함수를 정의하는 부분만 존재하게 되기 때문에 코드를 실행해도 어떤 결과도 나타나지 않습니다. 반대로 코드를 다음과 같이 바꾼다면, Hello, world!가 두 번 인쇄됩니다.
 
-```python
+~~~python
 def hello_world():
     print("Hello, world!")
 
@@ -82,11 +82,11 @@ hello_world()
 Hello, world!
 Hello, world!
 >>>
-```
+~~~
 
 #echo 함수 만들어보기
 함수와 문자열에 대해 이해했으니, 입력받은 값을 그대로 출력하는 echo 함수를 만들어보겠습니다.
-```python
+~~~python
 def echo(in_string):
     print(in_string)
 
@@ -97,13 +97,13 @@ echo("This is python echo function test.")
 Hello, world!
 This is python echo function test.
 >>>
-```
+~~~
 
 `in_string`이라는 인자를 받아, 그것을 콘솔에 출력하는 함수입니다. `echo()` 내부에 다양한 문자열을 집어넣어 정상작동하는지 테스트 해 봅시다.
 
 하지만 미리 입력된 문구만 입력하면 메아리라는 느낌이 잘 들지 않는 만큼, 사용자의 입력값을 직접 받아서 되풀이하도록 조금 더 수정해 보겠습니다.
 
-```python
+~~~python
 def echo():
     in_string = input("메아리 칠 문장을 입력해 주세요 : ")
     print(in_string)
@@ -113,7 +113,7 @@ echo()
 메아리 칠 문장을 입력해 주세요 : 야호!
 야호!
 >>>
-```
+~~~
 
 새롭게 `input()`함수가 사용되었습니다. 콘솔에서 사용자 입력값을 받아오는 함수입니다. `input`에 전달해 준 인자값은 문자열을 입력받을 때 출력되므로 안내 메시지의 역할을 합니다.
 in_string에 input에서 입력받은 값을 할당하고, 인쇄하는 프로그램이 되었습니다.
