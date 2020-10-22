@@ -9,11 +9,11 @@ published: False
 
 가장 먼저 살펴 볼 반복문은 `while`입니다. while은 뒤에 오는 식이 참인 동안 while문 안의 코드를 반복 수행합니다. 지난 시간에 다뤄 본, 메아리 프로그램인 `echo`를 이제 매번 실행하지 않아도 되는 것이죠. 코드를 조금 바꿔 보겠습니다.
 
-```python
+~~~python
 def echo(in_string):
   in_string = input("메아리 칠 문장을 입력해 주세요 : ")
   print(in_string)
 
 while true:
     echo()
-```
+~~~
