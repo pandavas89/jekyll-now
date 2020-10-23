@@ -9,7 +9,7 @@ published: False
 
 가장 먼저 살펴 볼 반복문은 `for`입니다. 나열할 수 있는 대상에 대해, 그 수 만큼 반복하는 코드입니다. 이렇게 설명해도 복잡할테니, 예제 코드를 바로 볼까요?
 
-```python
+~~~python
 def echo(in_string):
   print(in_string)
 
