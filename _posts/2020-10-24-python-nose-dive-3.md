@@ -11,12 +11,12 @@ published: True
 패키지란 누군가가 작성한 프로그램의 집합입니다. 이렇게 작성된 패키지는 배포되어 누구나 사용할 수 있도록 만들 수 있습니다. 파이썬의 경우, pypi(Python Package Index)를 통해 이러한 패키지 관리를 진행합니다. 파이썬을 설치할 때 함께 설치되기 때문에, 프롬프트 창에서 pip를 입력하는 것으로 설치되었는지를 확인할 수 있습니다.
 
 ## 기본 라이브러리
-가장 먼저, python에 기본적으로 내장된 패키지 중 하나인 `random`을 사용해보겠습니다. 지난 시간의 야구 게임을 혼자서도 즐길 수 있도록, 자동으로 맞춰야 할 숫자를 생성해주는 것인데요. `random` 패키지에는 임의의 정수를 생성하는 함수인 `randint`가 있습니다. 파라미터로 최소값과 최대값을 주면, 그 범위 내의 임의의 정수를 줍니다. 이를 적용해 새롭게 프로그래밍을 해 봅시다.
+가장 먼저, python에 기본적으로 내장된 패키지 중 하나인 `random`을 사용해보겠습니다. 지난 시간의 야구 게임을 혼자서도 즐길 수 있도록, 자동으로 맞춰야 할 숫자를 생성해주는 것인데요. `random` 패키지에는 임의의 정수를 생성하는 함수인 `randrange`가 있습니다. 파라미터로 최소값과 최대값을 주면, 그 범위 내의 임의의 정수를 줍니다. 이를 적용해 새롭게 프로그래밍을 해 봅시다.
 <details>
   <summary>baseball.py 코드</summary>
 
 ~~~python
-from random import randint
+from random import randrange
 
 def check_validity(target_str, init_mode=False):
   if !(target_str.isdigit()):
