@@ -76,4 +76,4 @@ GUI 생성을 위해 PyQt5 패키지를 설치할 것입니다. 이것은 폭넓
 
 본래는 이 화면을 구성할 수 있는 패키지인 `pyqt5-tools`도 설치 가능해야 하지만, 아직까지 파이썬의 최신 버전을 지원하지 않고 있기 때문에 직접 설치해줘야 합니다.
 
-![Qt Designer 다운로드](https://build-system.fman.io/qt-designer-download
+[Qt Designer 다운로드](https://build-system.fman.io/qt-designer-download
