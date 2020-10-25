@@ -13,7 +13,9 @@ published: True
 ## 기본 라이브러리
 가장 먼저, python에 기본적으로 내장된 패키지 중 하나인 `random`을 사용해보겠습니다. 지난 시간의 야구 게임을 혼자서도 즐길 수 있도록, 자동으로 맞춰야 할 숫자를 생성해주는 것인데요. `random` 패키지에는 임의의 정수를 생성하는 함수인 `randrange`가 있습니다. 파라미터로 최소값과 최대값을 주면, 그 범위 내의 임의의 정수를 줍니다. 이를 적용해 새롭게 프로그래밍을 해 봅시다.
 <details>
-  <summary>baseball.py 코드</summary>
+  <summary>
+  baseball.py 코드
+  </summary>
 
 ~~~python
 from random import randrange
