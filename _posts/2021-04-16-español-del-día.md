@@ -19,6 +19,10 @@ published: True
 
 
 # 단어장
+
+EEUU : 미국(Estados Unidenses)
+- 스페인어 약자에서 복수를 표기할 때는 해당 두문자를 두 번 쓴다.
+
 reiterar : 반복하다
 
 advertencia : 경고
