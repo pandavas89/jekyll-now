@@ -5,7 +5,7 @@ categories: Spanish
 published: True
 ---
 
-## 더불어민주당이 새로운 원내대표를 선출했다
+## 더불어민주당이 새로운 원내대표를 선출하다
 
 [The Minjoo elige nuevo responsable parlamentario](http://world.kbs.co.kr/service/news_view.htm?lang=s&Seq_Code=75443)
 
