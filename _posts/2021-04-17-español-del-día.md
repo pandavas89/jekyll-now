@@ -17,11 +17,16 @@ published: True
 
 더불어민주당 내에서 친문으로 분류되는 윤 의원은 문재인 정부가 추진해 온 개혁에 힘을 실으려는 의도인 것으로 해석된다
 
-단어장
+# 단어장
 
 diputado : 대리인, 여기서는 국회의원
+
 breve : 간결한
+
 tras : ~ 후
+
 comprometer : 약속하
+
 impulsar : 후원하다
+
 prever : 예견하다
