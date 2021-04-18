@@ -5,7 +5,7 @@ categories: Spanish
 published: True
 ---
 
-## 바이든이 일본인 장관과 함께 한국과 일본 사이의 긴장을 해소하고자 한다
+## 바이든이 일본 총리와 함께 한국과 일본 사이의 긴장을 해소하고자 한다
 
 [Biden intenta rebajar tensión entre Seúl y Tokio con premier japonés](http://world.kbs.co.kr/service/news_view.htm?lang=s&Seq_Code=75442)
 
