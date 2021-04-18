@@ -1,6 +1,6 @@
 ---
 title: 오늘의 스페인어
-date: 21-04-16 08:00:00
+date: 21-04-17 08:00:00
 categories: Spanish
 published: True
 ---
