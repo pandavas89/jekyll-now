@@ -1,0 +1,46 @@
+---
+title: 오늘의 스페인어
+date: 21-04-19 21:30:00
+categories: Spanish
+published: True
+---
+
+## 한국이 인도 신형 변종의 새로운 양성 케이스를 보고했다.
+
+[Corea reporta nueve casos positivos de la nueva variante de India](http://world.kbs.co.kr/service/news_view.htm?lang=s&Seq_Code=75446)
+
+한국은 지난 1월부터 인도에서 도착한 인원 가운데 94명에게서 인도 신종 Covid-19 변종을 발견했으며, 19일 월요일 아침까지 9건을 추가했다.
+
+보고서에 따르면 인도 변종은 이중 변이를 가지고 있지만, 그것이 감염성을 높이거나 백신의 효과를 저해할지는 알 수 없다.
+
+진행중인 연구결과를 모니터링하는 것 외에도 당국은 자경 시스템을 강화하고 백신 접종을 가속하기 위해 노력하고 있다.
+
+예방접종 일정에 따르면, 19일 월요일 보건 당국은 보육원과 객실 승무원의 예방접종을 시작했으며 경찰, 소방관과 군인의 예방 접종을 높이는 것을 중요하게 생각한다.
+
+그러나 백신 획득에 있어서 어려움을 겪고 있는 것과는 반대로, 발표 직후 미국 정부는 세번째 접종을 그들의 의료진에게 barajar 하고 있다고 발표했다. 효과를 최대화하기 위해.
+
+그러나 백신을 얻기 위한 합병증은 특히 미 정부가 백신의 효과를 강화하기 위해 시민들에 대한 세 번째 접종을 고려하고 있음을 발표한 이후 더 악화되고 있다.
+
+aún : 아직
+
+ignorar : 모르다
+
+vacuna : 백신
+
+minuciosamente : 세심하게
+
+marcha : 행진, 진행
+
+tripulante : 승무원
+
+cabina : 선실
+
+valorar : 평가하다
+
+adelantar : 전진하다
+
+bombero : 소방관
+
+complicaciones : 합병증
+
+baraja : 덱, 카드 더미
