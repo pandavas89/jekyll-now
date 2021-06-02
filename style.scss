@@ -276,6 +276,13 @@ nav {
       border : 1px solid black;
     }
   }
+
+  .PageNavigation{
+    > .next
+    {
+      float : right;
+    }
+  }
 }
 
 .wrapper-footer {
