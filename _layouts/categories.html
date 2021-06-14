@@ -1,0 +1,13 @@
+---
+layout:default
+---
+
+<div class = "posts">
+  {% for post in site.posts %}
+    {% if post.categories == category_name %}
+      <article class="post">
+        <h1><a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a></h1>
+      </article>
+    {% endif %}
+  {% endfor %}
+</div>
