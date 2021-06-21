@@ -6,7 +6,7 @@ published: True
 ---
 # 정부가 사회적 거리두기 규제를 유연화하다
 
-[http://world.kbs.co.kr/service/news_view.htm?lang=s&Seq_Code=76263](http://world.kbs.co.kr/service/news_view.htm?lang=s&Seq_Code=76263)
+[Gobierno flexibiliza pautas de distancia social](http://world.kbs.co.kr/service/news_view.htm?lang=s&Seq_Code=76263)
 
 7월 1일부터 한국 대부분의 지역에서 4인 이상의 사적 모임이 허용될 것이고 학교들은 2학기부터 대면 수업을 확대할 것이다.
 
