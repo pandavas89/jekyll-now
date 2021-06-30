@@ -3,7 +3,7 @@ layout: review
 title: 잉글리시 페이션트
 date: 19-01-28 13:30:00
 categories: book
-published: False
+published: True
 image: https://misc.ridibooks.com/cover/1620000090/xxlarge
 name: 잉글리시 페이션트
 link: https://ridibooks.com/v2/Detail?id=1620000090

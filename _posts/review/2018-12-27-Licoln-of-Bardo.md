@@ -3,7 +3,7 @@ layout: review
 title: 바르도의 링컨
 date: 19-01-28 13:30:00
 categories: book
-published: False
+published: True
 image: https://image.aladin.co.kr/product/17159/79/letslook/8954653421_f.jpg
 name: 바르도의 링컨
 link: https://www.aladin.co.kr/m/mproduct.aspx?ItemId=171597931
