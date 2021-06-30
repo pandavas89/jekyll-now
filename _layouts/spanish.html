@@ -4,8 +4,8 @@ layout: default
 spanish
 <div class="posts">
   {% for post in site.posts %}
-  {{post.category}}<br>
-    {% if post.category == 'spanish' %}
+  {{post.categories}}<br>
+    {% if post.categories == 'spanish' %}
       <article class="post">
 
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h1>
