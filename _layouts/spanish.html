@@ -6,7 +6,7 @@ spanish
 <div class="posts">
   {% for post in site.posts %}
     {{post.title}}-{{post.categories}}:{{post.categories == "Spanish"}}<br>
-    {% if post.categories == category %}
+    {% if post.categories contains category %}
       <article class="post">
 
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h1>
