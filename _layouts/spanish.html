@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-spanish
-{{ assing category = "Spanish"}}
+spanish 11
+{% assign category = "Spanish"%}
 <div class="posts">
   {% for post in site.posts %}
     {{post.title}}-{{post.categories}}:{{post.categories == "Spanish"}}<br>
