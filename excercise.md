@@ -1,6 +1,6 @@
 ---
 layout: category
-category: excercise
+category: Excercise
 title: 운동
 permalink: /excercise/
 ---
